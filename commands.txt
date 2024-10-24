@@ -1,0 +1,19 @@
+Git clone https://github.com/karthika988/sample.git
+
+Git and Github 
+
+alternatives : AWS , bitbucket , gitlab
+
+git add . >>>>> add the file to the staging alternatives (file is being tracked  by the git  ) 
+
+git command -m "message" >>>>>> used to commi tthe changes in the tracked file 
+
+git push orgin main >>> pushing the file to the main branch in the github repository 
+
+
+
+
+
+
+
+
